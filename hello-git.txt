@@ -10,3 +10,4 @@ log-demo: line 1
 log-demo: line 2
 stash-demo: uncommitted change
 reset-demo: C1
+reset-demo: C2

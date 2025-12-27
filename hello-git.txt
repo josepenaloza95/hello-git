@@ -9,3 +9,4 @@ Feature branch update
 log-demo: line 1
 log-demo: line 2
 stash-demo: uncommitted change
+reset-demo: C1
